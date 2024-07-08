@@ -1,0 +1,20 @@
+mode: set
+github.com/evandrorm89/temp_cep/main.go:34.34,35.19 1 1
+github.com/evandrorm89/temp_cep/main.go:38.2,39.19 2 1
+github.com/evandrorm89/temp_cep/main.go:35.19,37.3 1 1
+github.com/evandrorm89/temp_cep/main.go:42.57,45.22 2 1
+github.com/evandrorm89/temp_cep/main.go:49.2,50.16 2 1
+github.com/evandrorm89/temp_cep/main.go:54.2,59.16 5 1
+github.com/evandrorm89/temp_cep/main.go:64.2,64.24 1 1
+github.com/evandrorm89/temp_cep/main.go:69.2,72.16 3 1
+github.com/evandrorm89/temp_cep/main.go:76.2,80.16 3 1
+github.com/evandrorm89/temp_cep/main.go:85.2,87.16 3 1
+github.com/evandrorm89/temp_cep/main.go:93.2,104.37 6 1
+github.com/evandrorm89/temp_cep/main.go:45.22,48.3 2 1
+github.com/evandrorm89/temp_cep/main.go:50.16,53.3 2 0
+github.com/evandrorm89/temp_cep/main.go:59.16,62.3 2 0
+github.com/evandrorm89/temp_cep/main.go:64.24,67.3 2 1
+github.com/evandrorm89/temp_cep/main.go:72.16,75.3 2 0
+github.com/evandrorm89/temp_cep/main.go:80.16,83.3 2 0
+github.com/evandrorm89/temp_cep/main.go:87.16,91.3 3 0
+github.com/evandrorm89/temp_cep/main.go:107.13,114.2 5 0
