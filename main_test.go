@@ -69,7 +69,7 @@ func TestGetTempCepBatch(t *testing.T) {
 			name:       "Non-existent CEP",
 			cep:        "00000000",
 			wantStatus: http.StatusNotFound,
-			wantBody:   `{"message": "can not find zipcode"}`,
+			wantBody:   `{"message": "can not find zip code"}`,
 		},
 	}
 
